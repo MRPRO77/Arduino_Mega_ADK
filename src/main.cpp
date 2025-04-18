@@ -47,6 +47,7 @@ ________________[_]_[_]_[_]_________/_]_[_\___________________________________
 #include <Adafruit_BusIO_Register.h>
 
 #include "Config_mcu.h"
+#include "config_teclado.h"
 
 
 
